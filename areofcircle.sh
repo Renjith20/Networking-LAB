@@ -10,4 +10,4 @@ function area()
 echo "Enter the radius"
 read r
 area $r
-a
+
